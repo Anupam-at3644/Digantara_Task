@@ -1,5 +1,5 @@
 # Digantara_Task
-The code largely follows the approach provided in the question task. It is structured as multiple functions being called into __main__.
+The code largely follows the approach provided in the question task. It is structured as multiple functions being called into "__main__".
 
 The different steps of alogorithm are timed for reference and comparison.
 
