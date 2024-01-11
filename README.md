@@ -3,7 +3,7 @@ The code largely follows the approach provided in the question task. It is struc
 
 The different steps of alogorithm are timed for reference and comparison.
 
-Based on testing, it takes around 60 secs to compute LLA for 30 satellites over 5 days in time step of 0.1 sec.
+Based on testing, it takes around 60 secs to compute LLA for 30 satellites over 5 days in time steps of 0.1 sec (4,320,000 instances for every satellite).
 
 The filtered area is implemented naively assuming a rectangular-shaped region with four provided coordinates as corners.
 
